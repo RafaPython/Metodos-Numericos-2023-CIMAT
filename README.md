@@ -1,3 +1,21 @@
+## English - Inglés
+
+# Numerical-Methods-2023-CIMAT
+
+Hello!
+
+This is the repository containing materials and code for the Numerical Methods class taken during the August-December 2023 semester at the Center for Research in Mathematics.
+
+### **WARNING**:
+The code in this repository may contain errors or issues, use it with **caution**.
+
+Author: Rafael Alejandro García Ramírez
+Email: [rafael.ramirez@cimat.mx](mailto:rafael.ramirez@cimat.mx)
+
+
+
+## Spanish - Español
+
 # Metodos-Numericos-2023-CIMAT
 
 Hola! 
